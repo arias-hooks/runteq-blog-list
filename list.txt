@@ -10,9 +10,11 @@
 *://qiita.com/niwa1903/*
 *://qiita.com/ShotaroHirose59/*
 *://qiita.com/miketa_webprgr/*
+*://qiita.com/HBKK/*
 *://note.com/asm_18/*
 *://note.com/emetselch1984/*
 *://note.com/kentarotawara/*
+*://note.com/hbkk/*
 *://yuta-blog.tokyo/*
 *://miiina01220.hatenablog.com/*
 *://study-diary.hatenadiary.jp/*
@@ -42,3 +44,4 @@
 *://shiiotaka.hatenablog.com/*
 *://weblog-tec.hatenablog.com/*
 *://ryujisurf55.hatenablog.com/*
+*://kenchasonakai.hatenablog.com/*
